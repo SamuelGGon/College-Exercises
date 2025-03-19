@@ -14,7 +14,7 @@ public class exercicio1 {
         System.out.println("Por que você escreveu, " + algumaCoisa + " ?");
 
         entrada.close(); //Server para liberar espaço na memoria ram, apos o uso de seu programa tudo que for executado a cima ao encontrar esse close, terminou.
-    
+        System.out.print("alguma coisa \n Roberto");
         
     }
 }

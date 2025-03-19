@@ -16,6 +16,7 @@ public class Exercicio2 {
         System.out.println("Your age is: " + age);
         System.out.printf("Your height is: %.2fm%n", height);
         System.out.println("Your Classroom status is: " + status);
+        
     }
     
 }
