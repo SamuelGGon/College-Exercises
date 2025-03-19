@@ -7,7 +7,7 @@ Peça ao usuario colocar a temperatura em celcius e o programa da em Fahrenheit
 
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class Exercicio06 {
     public static void main(String[] args){
         Scanner userInput = new Scanner(System.in);
         double tempC, tempF;

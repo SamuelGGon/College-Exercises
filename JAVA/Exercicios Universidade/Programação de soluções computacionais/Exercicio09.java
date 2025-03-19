@@ -8,7 +8,7 @@ se o numero for maior que 20, calcule e imprima a metade dele.
 */
 import java.util.Scanner;
 
-public class Exercicio9 {
+public class Exercicio09 {
     public static void main(String[] args){
         Scanner userInput = new Scanner(System.in);
 

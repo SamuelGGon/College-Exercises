@@ -6,7 +6,7 @@ Faça um algoritmo para imprimir em cada linha / Make a algorithm that print on 
 - O seu curso/ The course you're doing 
 
  */
-public class Exercicio1 {
+public class Exercicio01 {
 public static void main (String [] arg){
     String name = "Samuel Guimarães Gonçalves";
     String RA = "12525151029";

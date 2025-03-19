@@ -7,7 +7,7 @@
  */
 
 
-public class Exercicio2 {
+public class Exercicio02 {
     public static void main (String [] arg){
         int age = 27;
         double height = 1.70;

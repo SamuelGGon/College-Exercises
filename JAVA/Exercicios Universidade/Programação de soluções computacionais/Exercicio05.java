@@ -10,7 +10,7 @@ and convert this values to hour, minutes and  seconds / e converta esse valor em
 
 import java.util.Scanner;
 
-public class Exercicio5 {
+public class Exercicio05 {
     public static void main(String[] args){
         Scanner userInput = new Scanner(System.in);
         int hour, minutes, seconds;
