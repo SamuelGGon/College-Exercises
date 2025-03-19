@@ -13,6 +13,18 @@ display the message Invalid Symbol and terminate.
 for the division operation, check if the divisor is valid (greater than zero)!
 if it is less than or equal to zero, display the message "Impossible to divide!!".
 
+
+Crie uma calculadora de operações básicas:
+
+Adição, subtração, multiplicação e divisão.
+O algoritmo deve ler dois números e o símbolo correspondente à operação desejada.
+Use o tipo char para ler a operação.
+No final, o resultado deve ser impresso.
+Restrições:
+Se o símbolo inserido não corresponder a uma operação válida, exiba a mensagem "Símbolo inválido" e termine o programa.
+Para a operação de divisão, verifique se o divisor é válido (maior que zero)!
+Se for menor ou igual a zero, exiba a mensagem "Impossível dividir!!".
+
 */
 
 import java.util.Scanner;
