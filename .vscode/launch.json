@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio52",
+            "request": "launch",
+            "mainClass": "Exercicio52",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio51",
+            "request": "launch",
+            "mainClass": "Exercicio51",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio50",
+            "request": "launch",
+            "mainClass": "Exercicio50",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio49",
+            "request": "launch",
+            "mainClass": "Exercicio49",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio48",
+            "request": "launch",
+            "mainClass": "Exercicio48",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "shoebary",
+            "request": "launch",
+            "mainClass": "shoebary",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "CarroApp",
+            "request": "launch",
+            "mainClass": "CarroApp",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "edu.gus.sudoku.App",
+            "projectName": "Sudoku"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "Cliente2App",
+            "request": "launch",
+            "mainClass": "Cliente2App",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "ClienteApp",
+            "request": "launch",
+            "mainClass": "ClienteApp",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "ClienteApp",
+            "request": "launch",
+            "mainClass": "Exercicios.ClienteApp",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "Relogioapp",
+            "request": "launch",
+            "mainClass": "Exercicios.Relogioapp",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "jesus",
+            "request": "launch",
+            "mainClass": "jesus",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "MorseApp",
+            "request": "launch",
+            "mainClass": "MorseApp",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "GUI",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "AlgumaCoisa",
+            "request": "launch",
+            "mainClass": "AlgumaCoisa",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "AlgumaCoisa",
+            "request": "launch",
+            "mainClass": "JAVA.AlgumaCoisa",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "JAVA.Calculadora",
+            "projectName": "Meus scrips_d969d5d6"
+        },
+        {
+            "type": "java",
             "name": "asdasd",
             "request": "launch",
             "mainClass": "asdasd",
