@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\bin\Debug\net8.0\Exercicio 21.exe
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\bin\Debug\net8.0\Exercicio 21.deps.json
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\bin\Debug\net8.0\Exercicio 21.runtimeconfig.json
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\bin\Debug\net8.0\Exercicio 21.dll
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\bin\Debug\net8.0\Exercicio 21.pdb
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\Exercicio 21.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\Exercicio 21.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\Exercicio 21.AssemblyInfo.cs
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\Exercicio 21.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\Exercicio 21.sourcelink.json
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\Exercicio 21.dll
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\refint\Exercicio 21.dll
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\Exercicio 21.pdb
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\Exercicio 21.genruntimeconfig.cache
+I:\Meus scrips\C#\Exercicio 21\Exercicio 21\obj\Debug\net8.0\ref\Exercicio 21.dll

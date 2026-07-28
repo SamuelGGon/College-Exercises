@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|i:\\meus scrips\\c#\\alura exercicios\\classe restaurante\\classe restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|solutionrelative:classe restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|i:\\meus scrips\\c#\\alura exercicios\\classe restaurante\\classe restaurante\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|solutionrelative:classe restaurante\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|i:\\meus scrips\\c#\\alura exercicios\\classe restaurante\\classe restaurante\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|solutionrelative:classe restaurante\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|i:\\meus scrips\\c#\\alura exercicios\\classe restaurante\\classe restaurante\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|solutionrelative:classe restaurante\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Classe Restaurante\\Restaurante.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Restaurante.cs",
+              "RelativeToolTip": "Classe Restaurante\\Restaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T00:25:07.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Pedido.cs",
+              "RelativeDocumentMoniker": "Classe Restaurante\\Pedido.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Pedido.cs",
+              "RelativeToolTip": "Classe Restaurante\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T00:16:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Mesa.cs",
+              "RelativeDocumentMoniker": "Classe Restaurante\\Mesa.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Mesa.cs",
+              "RelativeToolTip": "Classe Restaurante\\Mesa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:35:08.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cardapio.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Cardapio.cs",
+              "RelativeDocumentMoniker": "Classe Restaurante\\Cardapio.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Cardapio.cs",
+              "RelativeToolTip": "Classe Restaurante\\Cardapio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T02:17:21.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

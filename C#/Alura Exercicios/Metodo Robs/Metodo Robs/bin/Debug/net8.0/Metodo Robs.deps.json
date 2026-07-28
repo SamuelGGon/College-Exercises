@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Metodo Robs/1.0.0": {
+        "runtime": {
+          "Metodo Robs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodo Robs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Carro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3DF596-2494-8C31-1E8E-F491A60D0FF0}|Classe Carro\\Classe Carro.csproj|i:\\meus scrips\\c#\\alura exercicios\\classe carro\\classe carro\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3DF596-2494-8C31-1E8E-F491A60D0FF0}|Classe Carro\\Classe Carro.csproj|solutionrelative:classe carro\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3DF596-2494-8C31-1E8E-F491A60D0FF0}|Classe Carro\\Classe Carro.csproj|i:\\meus scrips\\c#\\alura exercicios\\classe carro\\classe carro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3DF596-2494-8C31-1E8E-F491A60D0FF0}|Classe Carro\\Classe Carro.csproj|solutionrelative:classe carro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Carro\\Classe Carro\\Carro.cs",
+              "RelativeDocumentMoniker": "Classe Carro\\Carro.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Carro\\Classe Carro\\Carro.cs",
+              "RelativeToolTip": "Classe Carro\\Carro.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:02:08.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Carro\\Classe Carro\\Program.cs",
+              "RelativeDocumentMoniker": "Classe Carro\\Program.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Carro\\Classe Carro\\Program.cs",
+              "RelativeToolTip": "Classe Carro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T20:01:58.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

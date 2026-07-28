@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\bin\Debug\net8.0\Exercicio 35.exe
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\bin\Debug\net8.0\Exercicio 35.deps.json
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\bin\Debug\net8.0\Exercicio 35.runtimeconfig.json
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\bin\Debug\net8.0\Exercicio 35.dll
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\bin\Debug\net8.0\Exercicio 35.pdb
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\Exercicio 35.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\Exercicio 35.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\Exercicio 35.AssemblyInfo.cs
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\Exercicio 35.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\Exercicio 35.sourcelink.json
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\Exercicio 35.dll
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\refint\Exercicio 35.dll
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\Exercicio 35.pdb
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\Exercicio 35.genruntimeconfig.cache
+I:\Meus scrips\C#\Exercicio 35\Exercicio 35\obj\Debug\net8.0\ref\Exercicio 35.dll

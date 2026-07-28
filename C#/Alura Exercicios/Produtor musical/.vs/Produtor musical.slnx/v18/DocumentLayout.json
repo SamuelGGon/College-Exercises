@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\testes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\testes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\plasylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\plasylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\dados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\dados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\estatistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\estatistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\busca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\busca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\generomusical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\generomusical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\recomedacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\recomedacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|i:\\meus scrips\\c#\\alura exercicios\\produtor musical\\produtor musical\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413C3EE4-C861-DD91-3DF9-276D7F98F665}|Produtor musical\\Produtor musical.csproj|solutionrelative:produtor musical\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Artista.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Artista.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Artista.cs",
+              "RelativeToolTip": "Produtor musical\\Artista.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:47:01.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estatistica.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Estatistica.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Estatistica.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Estatistica.cs",
+              "RelativeToolTip": "Produtor musical\\Estatistica.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:35:37.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recomedacao.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Recomedacao.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Recomedacao.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Recomedacao.cs",
+              "RelativeToolTip": "Produtor musical\\Recomedacao.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:18:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dados.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Dados.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Dados.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Dados.cs",
+              "RelativeToolTip": "Produtor musical\\Dados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:42:07.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Busca.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Busca.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Busca.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Busca.cs",
+              "RelativeToolTip": "Produtor musical\\Busca.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:09:33.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Avaliacao.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Avaliacao.cs",
+              "RelativeToolTip": "Produtor musical\\Avaliacao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:35:55.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testes.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\testes.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\testes.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\testes.cs",
+              "RelativeToolTip": "Produtor musical\\testes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:24:50.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Usuario.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Usuario.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Usuario.cs",
+              "RelativeToolTip": "Produtor musical\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:56:16.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeneroMusical.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\GeneroMusical.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\GeneroMusical.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\GeneroMusical.cs",
+              "RelativeToolTip": "Produtor musical\\GeneroMusical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T02:21:09.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Album.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Album.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Album.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Album.cs",
+              "RelativeToolTip": "Produtor musical\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T04:10:28.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plasylist.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Plasylist.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Plasylist.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Plasylist.cs",
+              "RelativeToolTip": "Produtor musical\\Plasylist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T22:32:30.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Musica.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Musica.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Musica.cs",
+              "RelativeToolTip": "Produtor musical\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:40:18.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Player.cs",
+              "RelativeDocumentMoniker": "Produtor musical\\Player.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Produtor musical\\Produtor musical\\Player.cs",
+              "RelativeToolTip": "Produtor musical\\Player.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T15:29:12.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

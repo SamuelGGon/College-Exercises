@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\bin\Debug\net8.0\Exercicio 33.exe
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\bin\Debug\net8.0\Exercicio 33.deps.json
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\bin\Debug\net8.0\Exercicio 33.runtimeconfig.json
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\bin\Debug\net8.0\Exercicio 33.dll
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\bin\Debug\net8.0\Exercicio 33.pdb
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\Exercicio 33.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\Exercicio 33.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\Exercicio 33.AssemblyInfo.cs
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\Exercicio 33.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\Exercicio 33.sourcelink.json
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\Exercicio 33.dll
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\refint\Exercicio 33.dll
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\Exercicio 33.pdb
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\Exercicio 33.genruntimeconfig.cache
+I:\Meus scrips\C#\Exercicio 33\Exercicio 33\obj\Debug\net8.0\ref\Exercicio 33.dll

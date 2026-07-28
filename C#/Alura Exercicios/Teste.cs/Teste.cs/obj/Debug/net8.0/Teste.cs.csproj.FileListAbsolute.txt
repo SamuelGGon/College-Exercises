@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\Teste.cs.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\Teste.cs.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\Teste.cs.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\Teste.cs.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\Teste.cs.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\bin\Debug\net8.0\Teste.cs.exe
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\bin\Debug\net8.0\Teste.cs.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\bin\Debug\net8.0\Teste.cs.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\bin\Debug\net8.0\Teste.cs.dll
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\bin\Debug\net8.0\Teste.cs.pdb
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\Teste.cs.dll
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\refint\Teste.cs.dll
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\Teste.cs.pdb
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\Teste.cs.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Teste.cs\Teste.cs\obj\Debug\net8.0\ref\Teste.cs.dll

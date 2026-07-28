@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Biblioteca\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll

@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.exe
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.dll
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.pdb
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.dll
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\refint\Exercicio 1.dll
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.pdb
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Exercicio 1\Exercicio 1\obj\Debug\net8.0\ref\Exercicio 1.dll

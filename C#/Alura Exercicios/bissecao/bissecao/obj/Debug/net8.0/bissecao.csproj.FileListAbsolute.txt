@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\bissecao.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\bissecao.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\bissecao.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\bissecao.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\bissecao.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\bin\Debug\net8.0\bissecao.exe
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\bin\Debug\net8.0\bissecao.deps.json
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\bin\Debug\net8.0\bissecao.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\bin\Debug\net8.0\bissecao.dll
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\bin\Debug\net8.0\bissecao.pdb
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\bissecao.dll
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\refint\bissecao.dll
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\bissecao.pdb
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\bissecao.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\bissecao\bissecao\obj\Debug\net8.0\ref\bissecao.dll

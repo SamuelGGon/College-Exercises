@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\bin\Debug\net10.0\Consulta medica.exe
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\bin\Debug\net10.0\Consulta medica.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\bin\Debug\net10.0\Consulta medica.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\bin\Debug\net10.0\Consulta medica.dll
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\bin\Debug\net10.0\Consulta medica.pdb
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\Consulta medica.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\Consulta medica.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\Consulta medica.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\Consulta medica.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\Consulta medica.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\Consulta medica.dll
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\refint\Consulta medica.dll
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\Consulta medica.pdb
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\Consulta medica.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Consulta medica\Consulta medica\obj\Debug\net10.0\ref\Consulta medica.dll

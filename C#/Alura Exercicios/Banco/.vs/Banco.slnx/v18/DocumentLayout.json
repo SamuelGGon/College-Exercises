@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87FB031C-F0DD-4196-B98B-045218A4C82D}|Banco\\Banco.csproj|i:\\meus scrips\\c#\\alura exercicios\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FB031C-F0DD-4196-B98B-045218A4C82D}|Banco\\Banco.csproj|solutionrelative:banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FB031C-F0DD-4196-B98B-045218A4C82D}|Banco\\Banco.csproj|i:\\meus scrips\\c#\\alura exercicios\\banco\\banco\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FB031C-F0DD-4196-B98B-045218A4C82D}|Banco\\Banco.csproj|solutionrelative:banco\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Banco\\Banco\\Banco.cs",
+              "RelativeDocumentMoniker": "Banco\\Banco.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Banco\\Banco\\Banco.cs",
+              "RelativeToolTip": "Banco\\Banco.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:40:27.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Banco\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Banco\\Program.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Banco\\Banco\\Program.cs",
+              "RelativeToolTip": "Banco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:37:56.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

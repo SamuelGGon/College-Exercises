@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Exercicio 41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F47C6133-0832-4787-A63E-4E3C8CD6F19D}|Exercicio 41\\Exercicio 41.csproj|i:\\meus scrips\\c#\\exercicio 41\\exercicio 41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47C6133-0832-4787-A63E-4E3C8CD6F19D}|Exercicio 41\\Exercicio 41.csproj|solutionrelative:exercicio 41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Exercicio 41\\Exercicio 41\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 41\\Program.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Exercicio 41\\Exercicio 41\\Program.cs",
+              "RelativeToolTip": "Exercicio 41\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:11:22.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

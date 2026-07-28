@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|i:\\meus scrips\\c#\\alura exercicios\\classe restaurante\\classe restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC4EB6-E7ED-7A39-0ED1-532BFB38FD89}|Classe Restaurante\\Classe Restaurante.csproj|solutionrelative:classe restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Program.cs",
+              "RelativeDocumentMoniker": "Classe Restaurante\\Program.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Classe Restaurante\\Classe Restaurante\\Program.cs",
+              "RelativeToolTip": "Classe Restaurante\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T02:17:21.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

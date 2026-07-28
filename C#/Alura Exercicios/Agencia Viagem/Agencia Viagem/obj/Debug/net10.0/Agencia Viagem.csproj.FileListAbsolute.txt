@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\bin\Debug\net10.0\Agencia Viagem.exe
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\bin\Debug\net10.0\Agencia Viagem.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\bin\Debug\net10.0\Agencia Viagem.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\bin\Debug\net10.0\Agencia Viagem.dll
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\bin\Debug\net10.0\Agencia Viagem.pdb
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\Agencia Viagem.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\Agencia Viagem.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\Agencia Viagem.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\Agencia Viagem.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\Agencia Viagem.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\Agencia Viagem.dll
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\refint\Agencia Viagem.dll
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\Agencia Viagem.pdb
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\Agencia Viagem.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Agencia Viagem\Agencia Viagem\obj\Debug\net10.0\ref\Agencia Viagem.dll

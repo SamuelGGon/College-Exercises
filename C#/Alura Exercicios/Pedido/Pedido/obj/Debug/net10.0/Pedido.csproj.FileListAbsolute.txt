@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\bin\Debug\net10.0\Pedido.exe
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\bin\Debug\net10.0\Pedido.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\bin\Debug\net10.0\Pedido.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\bin\Debug\net10.0\Pedido.dll
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\bin\Debug\net10.0\Pedido.pdb
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\Pedido.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\Pedido.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\Pedido.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\Pedido.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\Pedido.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\Pedido.dll
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\refint\Pedido.dll
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\Pedido.pdb
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\Pedido.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Pedido\Pedido\obj\Debug\net10.0\ref\Pedido.dll

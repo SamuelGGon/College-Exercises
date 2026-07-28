@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\Metodo Robs.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\Metodo Robs.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\Metodo Robs.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\Metodo Robs.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\Metodo Robs.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\bin\Debug\net8.0\Metodo Robs.exe
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\bin\Debug\net8.0\Metodo Robs.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\bin\Debug\net8.0\Metodo Robs.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\bin\Debug\net8.0\Metodo Robs.dll
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\bin\Debug\net8.0\Metodo Robs.pdb
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\Metodo Robs.dll
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\refint\Metodo Robs.dll
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\Metodo Robs.pdb
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\Metodo Robs.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Metodo Robs\Metodo Robs\obj\Debug\net8.0\ref\Metodo Robs.dll

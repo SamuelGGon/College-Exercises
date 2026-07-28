@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Exercicio 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C5F97A-3B9B-D98F-EFBF-7F99935736FB}|Exercicio 6\\Exercicio 6.csproj|i:\\meus scrips\\c#\\exercicio 6\\exercicio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C5F97A-3B9B-D98F-EFBF-7F99935736FB}|Exercicio 6\\Exercicio 6.csproj|solutionrelative:exercicio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E11C53-6CA4-96DB-0BC7-E2DDE2D11BD9}|..\\Exercicio 5\\Exercicio 5\\Exercicio 5.csproj|i:\\meus scrips\\c#\\exercicio 5\\exercicio 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Exercicio 5\\Exercicio 5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio 5\\Exercicio 5\\Program.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Exercicio 5\\Exercicio 5\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio 5\\Exercicio 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:19:12.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Exercicio 6\\Exercicio 6\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 6\\Program.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Exercicio 6\\Exercicio 6\\Program.cs",
+              "RelativeToolTip": "Exercicio 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:59:47.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

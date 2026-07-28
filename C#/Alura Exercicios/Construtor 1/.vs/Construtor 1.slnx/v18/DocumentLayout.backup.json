@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\Construtor 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C508AC-62AD-4A78-BA4F-59C66E162CBB}|Construtor 1\\Construtor 1.csproj|i:\\meus scrips\\c#\\alura exercicios\\construtor 1\\construtor 1\\construtor 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C508AC-62AD-4A78-BA4F-59C66E162CBB}|Construtor 1\\Construtor 1.csproj|solutionrelative:construtor 1\\construtor 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C508AC-62AD-4A78-BA4F-59C66E162CBB}|Construtor 1\\Construtor 1.csproj|i:\\meus scrips\\c#\\alura exercicios\\construtor 1\\construtor 1\\contrutor 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C508AC-62AD-4A78-BA4F-59C66E162CBB}|Construtor 1\\Construtor 1.csproj|solutionrelative:construtor 1\\contrutor 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C508AC-62AD-4A78-BA4F-59C66E162CBB}|Construtor 1\\Exercicio Contrutor.csproj|i:\\meus scrips\\c#\\alura exercicios\\construtor 1\\construtor 1\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C508AC-62AD-4A78-BA4F-59C66E162CBB}|Construtor 1\\Exercicio Contrutor.csproj|solutionrelative:construtor 1\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teste.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Construtor 1\\Construtor 1\\Teste.cs",
+              "RelativeDocumentMoniker": "Construtor 1\\Teste.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Construtor 1\\Construtor 1\\Teste.cs",
+              "RelativeToolTip": "Construtor 1\\Teste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T19:10:41.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Construtor 2.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Construtor 1\\Construtor 1\\Construtor 2.cs",
+              "RelativeDocumentMoniker": "Construtor 1\\Construtor 2.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Construtor 1\\Construtor 1\\Construtor 2.cs",
+              "RelativeToolTip": "Construtor 1\\Construtor 2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T19:04:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contrutor 1.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Construtor 1\\Construtor 1\\Contrutor 1.cs",
+              "RelativeDocumentMoniker": "Construtor 1\\Contrutor 1.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Construtor 1\\Construtor 1\\Contrutor 1.cs",
+              "RelativeToolTip": "Construtor 1\\Contrutor 1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T19:01:57.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

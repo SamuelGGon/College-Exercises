@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\bin\Debug\net10.0\Banco.exe
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\bin\Debug\net10.0\Banco.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\bin\Debug\net10.0\Banco.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\bin\Debug\net10.0\Banco.dll
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\bin\Debug\net10.0\Banco.pdb
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\Banco.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\Banco.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\Banco.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\Banco.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\Banco.dll
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\refint\Banco.dll
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\Banco.pdb
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\Banco.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Banco\Banco\obj\Debug\net10.0\ref\Banco.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\FIlmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D85D96-B297-AF70-2C34-DCCC7220A9CA}|Filmes\\Filmes.csproj|i:\\meus scrips\\c#\\alura exercicios\\filmes\\filmes\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D85D96-B297-AF70-2C34-DCCC7220A9CA}|Filmes\\Filmes.csproj|solutionrelative:filmes\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D85D96-B297-AF70-2C34-DCCC7220A9CA}|Filmes\\Filmes.csproj|i:\\meus scrips\\c#\\alura exercicios\\filmes\\filmes\\filmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D85D96-B297-AF70-2C34-DCCC7220A9CA}|Filmes\\Filmes.csproj|solutionrelative:filmes\\filmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filmes.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\FIlmes\\Filmes\\Filmes.cs",
+              "RelativeDocumentMoniker": "Filmes\\Filmes.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\FIlmes\\Filmes\\Filmes.cs",
+              "RelativeToolTip": "Filmes\\Filmes.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T05:43:03.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teste.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\FIlmes\\Filmes\\teste.cs",
+              "RelativeDocumentMoniker": "Filmes\\teste.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\FIlmes\\Filmes\\teste.cs",
+              "RelativeToolTip": "Filmes\\teste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T05:42:55.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

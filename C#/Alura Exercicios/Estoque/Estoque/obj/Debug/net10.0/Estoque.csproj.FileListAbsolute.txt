@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\bin\Debug\net10.0\Estoque.exe
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\bin\Debug\net10.0\Estoque.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\bin\Debug\net10.0\Estoque.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\bin\Debug\net10.0\Estoque.dll
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\bin\Debug\net10.0\Estoque.pdb
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\Estoque.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\Estoque.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\Estoque.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\Estoque.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\Estoque.dll
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\refint\Estoque.dll
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\Estoque.pdb
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\Estoque.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Estoque\Estoque\obj\Debug\net10.0\ref\Estoque.dll

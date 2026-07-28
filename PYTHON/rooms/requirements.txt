@@ -1,0 +1,4 @@
+dotenv
+requests
+beautifulsoup4
+rich

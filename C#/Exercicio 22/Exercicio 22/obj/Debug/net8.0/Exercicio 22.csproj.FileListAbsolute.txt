@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\Exercicio 22.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\Exercicio 22.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\Exercicio 22.AssemblyInfo.cs
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\Exercicio 22.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\Exercicio 22.sourcelink.json
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\bin\Debug\net8.0\Exercicio 22.exe
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\bin\Debug\net8.0\Exercicio 22.deps.json
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\bin\Debug\net8.0\Exercicio 22.runtimeconfig.json
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\bin\Debug\net8.0\Exercicio 22.dll
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\bin\Debug\net8.0\Exercicio 22.pdb
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\Exercicio 22.dll
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\refint\Exercicio 22.dll
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\Exercicio 22.pdb
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\Exercicio 22.genruntimeconfig.cache
+I:\Meus scrips\C#\Exercicio 22\Exercicio 22\obj\Debug\net8.0\ref\Exercicio 22.dll

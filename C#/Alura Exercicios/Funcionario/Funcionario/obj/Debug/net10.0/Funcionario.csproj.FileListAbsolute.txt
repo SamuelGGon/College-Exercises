@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.exe
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.dll
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.pdb
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.dll
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\refint\Funcionario.dll
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.pdb
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Funcionario\Funcionario\obj\Debug\net10.0\ref\Funcionario.dll

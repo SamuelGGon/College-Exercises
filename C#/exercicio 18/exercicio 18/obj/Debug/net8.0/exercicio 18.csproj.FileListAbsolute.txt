@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\exercicio 18\exercicio 18\bin\Debug\net8.0\exercicio 18.exe
+I:\Meus scrips\C#\exercicio 18\exercicio 18\bin\Debug\net8.0\exercicio 18.deps.json
+I:\Meus scrips\C#\exercicio 18\exercicio 18\bin\Debug\net8.0\exercicio 18.runtimeconfig.json
+I:\Meus scrips\C#\exercicio 18\exercicio 18\bin\Debug\net8.0\exercicio 18.dll
+I:\Meus scrips\C#\exercicio 18\exercicio 18\bin\Debug\net8.0\exercicio 18.pdb
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\exercicio 18.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\exercicio 18.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\exercicio 18.AssemblyInfo.cs
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\exercicio 18.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\exercicio 18.sourcelink.json
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\exercicio 18.dll
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\refint\exercicio 18.dll
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\exercicio 18.pdb
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\exercicio 18.genruntimeconfig.cache
+I:\Meus scrips\C#\exercicio 18\exercicio 18\obj\Debug\net8.0\ref\exercicio 18.dll

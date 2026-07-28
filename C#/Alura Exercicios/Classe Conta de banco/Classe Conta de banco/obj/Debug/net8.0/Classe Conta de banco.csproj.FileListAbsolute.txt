@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\bin\Debug\net8.0\Classe Conta de banco.exe
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\bin\Debug\net8.0\Classe Conta de banco.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\bin\Debug\net8.0\Classe Conta de banco.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\bin\Debug\net8.0\Classe Conta de banco.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\bin\Debug\net8.0\Classe Conta de banco.pdb
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\Classe Conta de banco.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\Classe Conta de banco.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\Classe Conta de banco.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\Classe Conta de banco.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\Classe Conta de banco.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\Classe Conta de banco.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\refint\Classe Conta de banco.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\Classe Conta de banco.pdb
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\Classe Conta de banco.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Conta de banco\Classe Conta de banco\obj\Debug\net8.0\ref\Classe Conta de banco.dll

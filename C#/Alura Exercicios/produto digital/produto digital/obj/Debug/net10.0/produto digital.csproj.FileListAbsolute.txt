@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\produto digital.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\produto digital.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\produto digital.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\produto digital.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\produto digital.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\bin\Debug\net10.0\produto digital.exe
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\bin\Debug\net10.0\produto digital.deps.json
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\bin\Debug\net10.0\produto digital.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\bin\Debug\net10.0\produto digital.dll
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\bin\Debug\net10.0\produto digital.pdb
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\produto digital.dll
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\refint\produto digital.dll
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\produto digital.pdb
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\produto digital.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\produto digital\produto digital\obj\Debug\net10.0\ref\produto digital.dll

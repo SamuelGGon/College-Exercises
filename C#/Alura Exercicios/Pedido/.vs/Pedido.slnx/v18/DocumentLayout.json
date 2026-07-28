@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\Pedido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37600BE9-A196-4739-A527-A75F7DF35156}|Pedido\\Pedido.csproj|i:\\meus scrips\\c#\\alura exercicios\\pedido\\pedido\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37600BE9-A196-4739-A527-A75F7DF35156}|Pedido\\Pedido.csproj|solutionrelative:pedido\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37600BE9-A196-4739-A527-A75F7DF35156}|Pedido\\Pedido.csproj|i:\\meus scrips\\c#\\alura exercicios\\pedido\\pedido\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37600BE9-A196-4739-A527-A75F7DF35156}|Pedido\\Pedido.csproj|solutionrelative:pedido\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teste.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Pedido\\Pedido\\teste.cs",
+              "RelativeDocumentMoniker": "Pedido\\teste.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Pedido\\Pedido\\teste.cs",
+              "RelativeToolTip": "Pedido\\teste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T16:59:57.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Pedido\\Pedido\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Pedido\\Pedidos.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Pedido\\Pedido\\Pedidos.cs",
+              "RelativeToolTip": "Pedido\\Pedidos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:54:40.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\bin\Debug\net8.0\Exercicio jogo.exe
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\bin\Debug\net8.0\Exercicio jogo.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\bin\Debug\net8.0\Exercicio jogo.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\bin\Debug\net8.0\Exercicio jogo.dll
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\bin\Debug\net8.0\Exercicio jogo.pdb
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\Exercicio jogo.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\Exercicio jogo.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\Exercicio jogo.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\Exercicio jogo.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\Exercicio jogo.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\Exercicio jogo.dll
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\refint\Exercicio jogo.dll
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\Exercicio jogo.pdb
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\Exercicio jogo.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Exercicio jogo\Exercicio jogo\obj\Debug\net8.0\ref\Exercicio jogo.dll

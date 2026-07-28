@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\Produtor musical.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\Produtor musical.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\Produtor musical.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\Produtor musical.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\Produtor musical.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\bin\Debug\net8.0\Produtor musical.exe
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\bin\Debug\net8.0\Produtor musical.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\bin\Debug\net8.0\Produtor musical.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\bin\Debug\net8.0\Produtor musical.dll
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\bin\Debug\net8.0\Produtor musical.pdb
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\Produtor musical.dll
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\refint\Produtor musical.dll
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\Produtor musical.pdb
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\Produtor musical.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Produtor musical\Produtor musical\obj\Debug\net8.0\ref\Produtor musical.dll

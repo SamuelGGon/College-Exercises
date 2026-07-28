@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\bin\Debug\net10.0\Filmes.exe
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\bin\Debug\net10.0\Filmes.deps.json
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\bin\Debug\net10.0\Filmes.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\bin\Debug\net10.0\Filmes.dll
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\bin\Debug\net10.0\Filmes.pdb
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\Filmes.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\Filmes.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\Filmes.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\Filmes.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\Filmes.dll
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\refint\Filmes.dll
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\Filmes.pdb
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\Filmes.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\FIlmes\Filmes\obj\Debug\net10.0\ref\Filmes.dll

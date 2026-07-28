@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\bin\Debug\net8.0\Exercicio 30.exe
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\bin\Debug\net8.0\Exercicio 30.deps.json
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\bin\Debug\net8.0\Exercicio 30.runtimeconfig.json
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\bin\Debug\net8.0\Exercicio 30.dll
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\bin\Debug\net8.0\Exercicio 30.pdb
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\Exercicio 30.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\Exercicio 30.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\Exercicio 30.AssemblyInfo.cs
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\Exercicio 30.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\Exercicio 30.sourcelink.json
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\Exercicio 30.dll
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\refint\Exercicio 30.dll
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\Exercicio 30.pdb
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\Exercicio 30.genruntimeconfig.cache
+I:\Meus scrips\C#\Exercicio 30\Exercicio 30\obj\Debug\net8.0\ref\Exercicio 30.dll

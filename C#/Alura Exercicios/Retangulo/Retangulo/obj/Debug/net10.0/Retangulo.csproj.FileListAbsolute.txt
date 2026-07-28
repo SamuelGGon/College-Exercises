@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\bin\Debug\net10.0\Retangulo.exe
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\bin\Debug\net10.0\Retangulo.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\bin\Debug\net10.0\Retangulo.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\bin\Debug\net10.0\Retangulo.dll
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\bin\Debug\net10.0\Retangulo.pdb
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\Retangulo.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\Retangulo.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\Retangulo.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\Retangulo.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\Retangulo.dll
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\refint\Retangulo.dll
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\Retangulo.pdb
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\Retangulo.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Retangulo\Retangulo\obj\Debug\net10.0\ref\Retangulo.dll

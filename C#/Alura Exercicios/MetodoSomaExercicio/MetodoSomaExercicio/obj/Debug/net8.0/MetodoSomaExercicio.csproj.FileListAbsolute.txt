@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\bin\Debug\net8.0\MetodoSomaExercicio.exe
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\bin\Debug\net8.0\MetodoSomaExercicio.deps.json
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\bin\Debug\net8.0\MetodoSomaExercicio.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\bin\Debug\net8.0\MetodoSomaExercicio.dll
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\bin\Debug\net8.0\MetodoSomaExercicio.pdb
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\MetodoSomaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\MetodoSomaExercicio.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\MetodoSomaExercicio.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\MetodoSomaExercicio.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\MetodoSomaExercicio.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\MetodoSomaExercicio.dll
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\refint\MetodoSomaExercicio.dll
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\MetodoSomaExercicio.pdb
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\MetodoSomaExercicio.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\MetodoSomaExercicio\MetodoSomaExercicio\obj\Debug\net8.0\ref\MetodoSomaExercicio.dll

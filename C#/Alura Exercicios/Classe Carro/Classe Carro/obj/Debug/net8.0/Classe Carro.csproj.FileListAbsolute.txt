@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\bin\Debug\net8.0\Classe Carro.exe
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\bin\Debug\net8.0\Classe Carro.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\bin\Debug\net8.0\Classe Carro.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\bin\Debug\net8.0\Classe Carro.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\bin\Debug\net8.0\Classe Carro.pdb
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\Classe Carro.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\Classe Carro.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\Classe Carro.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\Classe Carro.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\Classe Carro.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\Classe Carro.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\refint\Classe Carro.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\Classe Carro.pdb
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\Classe Carro.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Carro\Classe Carro\obj\Debug\net8.0\ref\Classe Carro.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\Exercicio 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{028A98FA-D3C4-4101-1AB7-4DB0973CC3A5}|Exercicio 9\\Exercicio 9.csproj|i:\\meus scrips\\c#\\alura exercicios\\exercicio 9\\exercicio 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028A98FA-D3C4-4101-1AB7-4DB0973CC3A5}|Exercicio 9\\Exercicio 9.csproj|solutionrelative:exercicio 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\Exercicio 9\\Exercicio 9\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 9\\Program.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\Exercicio 9\\Exercicio 9\\Program.cs",
+              "RelativeToolTip": "Exercicio 9\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAG0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:20:05.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

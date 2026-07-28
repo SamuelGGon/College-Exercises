@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\bin\Debug\net8.0\Exercicio 34.exe
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\bin\Debug\net8.0\Exercicio 34.deps.json
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\bin\Debug\net8.0\Exercicio 34.runtimeconfig.json
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\bin\Debug\net8.0\Exercicio 34.dll
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\bin\Debug\net8.0\Exercicio 34.pdb
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\Exercicio 34.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\Exercicio 34.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\Exercicio 34.AssemblyInfo.cs
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\Exercicio 34.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\Exercicio 34.sourcelink.json
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\Exercicio 34.dll
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\refint\Exercicio 34.dll
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\Exercicio 34.pdb
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\Exercicio 34.genruntimeconfig.cache
+I:\Meus scrips\C#\Exercicio 34\Exercicio 34\obj\Debug\net8.0\ref\Exercicio 34.dll

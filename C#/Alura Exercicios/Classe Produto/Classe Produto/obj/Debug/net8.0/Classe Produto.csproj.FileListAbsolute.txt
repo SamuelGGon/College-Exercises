@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\bin\Debug\net8.0\Classe Produto.exe
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\bin\Debug\net8.0\Classe Produto.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\bin\Debug\net8.0\Classe Produto.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\bin\Debug\net8.0\Classe Produto.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\bin\Debug\net8.0\Classe Produto.pdb
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\Classe Produto.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\Classe Produto.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\Classe Produto.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\Classe Produto.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\Classe Produto.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\Classe Produto.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\refint\Classe Produto.dll
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\Classe Produto.pdb
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\Classe Produto.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Classe Produto\Classe Produto\obj\Debug\net8.0\ref\Classe Produto.dll

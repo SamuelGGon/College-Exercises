@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Meus scrips\\C#\\Alura Exercicios\\biblioteca 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96B1ECC0-7780-FC08-6AFC-05B631ACBCA1}|biblioteca 2\\biblioteca 2.csproj|i:\\meus scrips\\c#\\alura exercicios\\biblioteca 2\\biblioteca 2\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B1ECC0-7780-FC08-6AFC-05B631ACBCA1}|biblioteca 2\\biblioteca 2.csproj|solutionrelative:biblioteca 2\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B1ECC0-7780-FC08-6AFC-05B631ACBCA1}|biblioteca 2\\biblioteca 2.csproj|i:\\meus scrips\\c#\\alura exercicios\\biblioteca 2\\biblioteca 2\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B1ECC0-7780-FC08-6AFC-05B631ACBCA1}|biblioteca 2\\biblioteca 2.csproj|solutionrelative:biblioteca 2\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teste.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\biblioteca 2\\biblioteca 2\\teste.cs",
+              "RelativeDocumentMoniker": "biblioteca 2\\teste.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\biblioteca 2\\biblioteca 2\\teste.cs",
+              "RelativeToolTip": "biblioteca 2\\teste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T21:17:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "I:\\Meus scrips\\C#\\Alura Exercicios\\biblioteca 2\\biblioteca 2\\Livro.cs",
+              "RelativeDocumentMoniker": "biblioteca 2\\Livro.cs",
+              "ToolTip": "I:\\Meus scrips\\C#\\Alura Exercicios\\biblioteca 2\\biblioteca 2\\Livro.cs",
+              "RelativeToolTip": "biblioteca 2\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T21:13:49.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

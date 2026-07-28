@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\Exercicio Contrutor.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\Exercicio Contrutor.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\Exercicio Contrutor.AssemblyInfo.cs
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\Exercicio Contrutor.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\Exercicio Contrutor.sourcelink.json
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\bin\Debug\net8.0\Exercicio Contrutor.exe
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\bin\Debug\net8.0\Exercicio Contrutor.deps.json
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\bin\Debug\net8.0\Exercicio Contrutor.runtimeconfig.json
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\bin\Debug\net8.0\Exercicio Contrutor.dll
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\bin\Debug\net8.0\Exercicio Contrutor.pdb
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\Exercicio Contrutor.dll
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\refint\Exercicio Contrutor.dll
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\Exercicio Contrutor.pdb
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\Exercicio Contrutor.genruntimeconfig.cache
+I:\Meus scrips\C#\Alura Exercicios\Construtor 1\Construtor 1\obj\Debug\net8.0\ref\Exercicio Contrutor.dll

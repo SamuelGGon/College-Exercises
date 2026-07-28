@@ -1,0 +1,15 @@
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\bin\Debug\net8.0\Exercicio 48.exe
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\bin\Debug\net8.0\Exercicio 48.deps.json
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\bin\Debug\net8.0\Exercicio 48.runtimeconfig.json
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\bin\Debug\net8.0\Exercicio 48.dll
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\bin\Debug\net8.0\Exercicio 48.pdb
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\Exercicio 48.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\Exercicio 48.AssemblyInfoInputs.cache
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\Exercicio 48.AssemblyInfo.cs
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\Exercicio 48.csproj.CoreCompileInputs.cache
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\Exercicio 48.sourcelink.json
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\Exercicio 48.dll
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\refint\Exercicio 48.dll
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\Exercicio 48.pdb
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\Exercicio 48.genruntimeconfig.cache
+I:\Meus scrips\C#\Exercicio 48\Exercicio 48\obj\Debug\net8.0\ref\Exercicio 48.dll
